@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://your-phenomenal-builder.vercel.app/sitemap.xml
+
